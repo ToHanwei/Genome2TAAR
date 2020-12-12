@@ -1,0 +1,1231 @@
+2020-11-18 Wednesday 13:47:34 Functions.py[line:1336] INFO [0;32m7[0m pseudogene ORs were discover.
+2020-11-18 Wednesday 13:47:34 Functions.py[line:1337] INFO [0;32m7[0m pseudogenes cause by TM has gaps(more than 5).
+2020-11-18 Wednesday 13:47:34 Functions.py[line:39] INFO identity_writer use 0.003 seconds
+2020-11-18 Wednesday 13:47:34 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-11-18 Wednesday 13:47:35 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-11-18 Wednesday 13:47:35 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-11-18 Wednesday 13:47:35 Functions.py[line:1386] INFO Eventually [1;32m0[0m functional olfactory receptors were discovered
+2020-11-18 Wednesday 13:47:35 Functions.py[line:1389] INFO Eventually [1;32m7[0m pseudogenes gene were discovered
+2020-11-18 Wednesday 13:47:35 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-11-18 Wednesday 13:59:12 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-11-18 Wednesday 13:59:12 Functions.py[line:35] INFO function platform_info() is running
+2020-11-18 Wednesday 13:59:12 Functions.py[line:39] INFO platform_info use 0.003 seconds
+2020-11-18 Wednesday 13:59:12 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-11-18 Wednesday 13:59:12 Functions.py[line:449] INFO [0;32m0[0m truncated gene(s) was discovered
+2020-11-18 Wednesday 13:59:12 Functions.py[line:39] INFO proc_nhmmer_out use 0.002 seconds
+2020-11-18 Wednesday 13:59:12 Functions.py[line:35] INFO function extract_cds() is running
+2020-11-18 Wednesday 13:59:16 Functions.py[line:39] INFO extract_cds use 4.475 seconds
+2020-11-18 Wednesday 13:59:16 Functions.py[line:35] INFO function find_cds() is running
+2020-11-18 Wednesday 13:59:16 Functions.py[line:39] INFO find_cds use 0.269 seconds
+2020-11-18 Wednesday 13:59:16 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1260] INFO ###The result as follows###
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1261] INFO find processing completed
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1262] INFO [0;32m65[0m OR fragments found by nhmmer.
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1263] INFO [1;32m0[0m potential functional ORs were discover.
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1264] INFO [0;32m0[0m pseudogenes fragment were merged
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1265] INFO [1;32m65[0m potential pseudogene ORs were discover.
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1268] INFO [0;32m65[0m pseudogenes cause by contains termination codons.
+2020-11-18 Wednesday 13:59:17 Functions.py[line:1269] INFO ###The program finish###
+2020-11-18 Wednesday 13:59:17 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-11-18 Wednesday 14:01:36 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-11-18 Wednesday 14:01:36 Functions.py[line:35] INFO function platform_info() is running
+2020-11-18 Wednesday 14:01:36 Functions.py[line:39] INFO platform_info use 0.003 seconds
+2020-11-18 Wednesday 14:01:36 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-11-18 Wednesday 14:01:36 Functions.py[line:449] INFO [0;32m0[0m truncated gene(s) was discovered
+2020-11-18 Wednesday 14:01:36 Functions.py[line:39] INFO proc_nhmmer_out use 0.002 seconds
+2020-11-18 Wednesday 14:01:36 Functions.py[line:35] INFO function extract_cds() is running
+2020-11-18 Wednesday 14:01:40 Functions.py[line:39] INFO extract_cds use 4.800 seconds
+2020-11-18 Wednesday 14:01:40 Functions.py[line:35] INFO function find_cds() is running
+2020-11-18 Wednesday 14:01:41 Functions.py[line:39] INFO find_cds use 0.573 seconds
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1260] INFO ###The result as follows###
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1261] INFO find processing completed
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1262] INFO [0;32m65[0m OR fragments found by nhmmer.
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1263] INFO [1;32m291[0m potential functional ORs were discover.
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1264] INFO [0;32m0[0m pseudogenes fragment were merged
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1265] INFO [1;32m0[0m potential pseudogene ORs were discover.
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-11-18 Wednesday 14:01:41 Functions.py[line:1269] INFO ###The program finish###
+2020-11-18 Wednesday 14:01:41 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-11-18 Wednesday 14:06:56 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-11-18 Wednesday 14:06:56 Functions.py[line:35] INFO function platform_info() is running
+2020-11-18 Wednesday 14:06:56 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-11-18 Wednesday 14:06:56 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-11-18 Wednesday 14:06:56 Functions.py[line:449] INFO [0;32m0[0m truncated gene(s) was discovered
+2020-11-18 Wednesday 14:06:56 Functions.py[line:39] INFO proc_nhmmer_out use 0.002 seconds
+2020-11-18 Wednesday 14:06:56 Functions.py[line:35] INFO function extract_cds() is running
+2020-11-18 Wednesday 14:07:01 Functions.py[line:39] INFO extract_cds use 4.745 seconds
+2020-11-18 Wednesday 14:07:01 Functions.py[line:35] INFO function find_cds() is running
+2020-11-18 Wednesday 14:07:02 Functions.py[line:39] INFO find_cds use 0.563 seconds
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1260] INFO ###The result as follows###
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1261] INFO find processing completed
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1262] INFO [0;32m65[0m OR fragments found by nhmmer.
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1263] INFO [1;32m168[0m potential functional ORs were discover.
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1264] INFO [0;32m0[0m pseudogenes fragment were merged
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1265] INFO [1;32m2[0m potential pseudogene ORs were discover.
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1268] INFO [0;32m2[0m pseudogenes cause by contains termination codons.
+2020-11-18 Wednesday 14:07:02 Functions.py[line:1269] INFO ###The program finish###
+2020-11-18 Wednesday 14:07:02 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-11-18 Wednesday 14:14:10 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-11-18 Wednesday 14:14:10 Functions.py[line:35] INFO function platform_info() is running
+2020-11-18 Wednesday 14:14:10 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-11-18 Wednesday 14:14:10 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-11-18 Wednesday 14:14:10 Functions.py[line:39] INFO refact_hitfile use 0.001 seconds
+2020-11-18 Wednesday 14:14:10 Functions.py[line:35] INFO function refact_list() is running
+2020-11-18 Wednesday 14:14:11 Functions.py[line:39] INFO refact_list use 1.354 seconds
+2020-11-19 Thursday 10:13:47 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-11-19 Thursday 10:13:47 Functions.py[line:35] INFO function platform_info() is running
+2020-11-19 Thursday 10:13:47 Functions.py[line:39] INFO platform_info use 0.007 seconds
+2020-11-19 Thursday 10:13:47 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-11-19 Thursday 10:13:47 Functions.py[line:39] INFO refact_hitfile use 0.033 seconds
+2020-11-19 Thursday 10:13:47 Functions.py[line:35] INFO function refact_list() is running
+2020-11-19 Thursday 10:13:51 Functions.py[line:39] INFO refact_list use 3.486 seconds
+2020-11-19 Thursday 10:16:00 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-11-19 Thursday 10:16:00 Functions.py[line:35] INFO function platform_info() is running
+2020-11-19 Thursday 10:16:00 Functions.py[line:39] INFO platform_info use 0.003 seconds
+2020-11-19 Thursday 10:16:00 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-11-19 Thursday 10:16:00 Functions.py[line:39] INFO refact_hitfile use 0.001 seconds
+2020-11-19 Thursday 10:16:00 Functions.py[line:35] INFO function refact_list() is running
+2020-11-19 Thursday 10:16:01 Functions.py[line:39] INFO refact_list use 1.299 seconds
+2020-12-10 Thursday 20:09:50 Functions.py[line:63] INFO ###Iteration program starts running###
+2020-12-10 Thursday 20:09:50 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:09:50 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:09:50 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:09:50 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:09:50 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:09:50 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:10:35 Functions.py[line:39] INFO run_nhmmer use 45.224 seconds
+2020-12-10 Thursday 20:10:35 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:10:35 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:10:35 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:10:35 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:10:35 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:10:35 Functions.py[line:449] INFO [0;32m21[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:10:35 Functions.py[line:39] INFO proc_nhmmer_out use 0.002 seconds
+2020-12-10 Thursday 20:10:35 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:11:59 Functions.py[line:39] INFO extract_cds use 84.200 seconds
+2020-12-10 Thursday 20:11:59 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:39] INFO find_cds use 1.584 seconds
+2020-12-10 Thursday 20:12:01 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:12:01 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:12:01 Iteration.py[line:133] INFO Iteration 1 construct HMM profile
+2020-12-10 Thursday 20:12:01 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:39] INFO run_nhmmer use 0.007 seconds
+2020-12-10 Thursday 20:12:01 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:12:01 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:12:01 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:12:01 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:12:01 Iteration.py[line:135] INFO ###Program Iteration.py finish###
+2020-12-10 Thursday 20:13:36 Functions.py[line:63] INFO ###Iteration program starts running###
+2020-12-10 Thursday 20:13:36 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:13:36 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:13:36 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:13:36 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:13:36 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:13:36 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:14:22 Functions.py[line:39] INFO run_nhmmer use 45.234 seconds
+2020-12-10 Thursday 20:14:22 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:14:22 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:14:22 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:14:22 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:14:22 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:14:22 Functions.py[line:449] INFO [0;32m21[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:14:22 Functions.py[line:39] INFO proc_nhmmer_out use 0.003 seconds
+2020-12-10 Thursday 20:14:22 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:15:45 Functions.py[line:39] INFO extract_cds use 83.583 seconds
+2020-12-10 Thursday 20:15:45 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:15:47 Functions.py[line:39] INFO find_cds use 1.516 seconds
+2020-12-10 Thursday 20:15:47 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:15:47 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:15:47 Functions.py[line:1261] INFO Polypterus_endlicheri_itera1 processing completed
+2020-12-10 Thursday 20:15:47 Functions.py[line:1262] INFO [0;32m559[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:15:47 Functions.py[line:1263] INFO [1;32m544[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:15:47 Functions.py[line:1264] INFO [0;32m181[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:15:47 Functions.py[line:1265] INFO [1;32m70[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:15:47 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:15:47 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:15:47 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:15:47 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:15:47 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:15:47 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:15:47 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:15:47 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:15:47 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:15:47 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:15:47 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:15:48 Functions.py[line:39] INFO refact_list use 1.263 seconds
+2020-12-10 Thursday 20:15:48 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:15:48 Functions.py[line:1335] INFO [0;32m0[0m functional ORs were discover.
+2020-12-10 Thursday 20:15:48 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:15:48 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:15:48 Functions.py[line:39] INFO identity_writer use 0.002 seconds
+2020-12-10 Thursday 20:15:48 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:15:49 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:15:49 Iteration.py[line:133] INFO Iteration 1 construct HMM profile
+2020-12-10 Thursday 20:15:49 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:15:49 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:15:49 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:15:49 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:15:49 Functions.py[line:39] INFO run_nhmmer use 0.007 seconds
+2020-12-10 Thursday 20:15:49 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:15:49 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:15:49 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:15:49 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:15:49 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:15:49 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:15:49 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:15:49 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:15:49 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:15:49 Iteration.py[line:135] INFO ###Program Iteration.py finish###
+2020-12-10 Thursday 20:16:20 Functions.py[line:63] INFO ###Iteration program starts running###
+2020-12-10 Thursday 20:16:20 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:16:20 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:16:20 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:16:20 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:16:20 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:16:20 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:17:14 Functions.py[line:39] INFO run_nhmmer use 53.886 seconds
+2020-12-10 Thursday 20:17:14 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:17:14 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:17:14 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:17:14 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:17:14 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:17:14 Functions.py[line:449] INFO [0;32m21[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:17:14 Functions.py[line:39] INFO proc_nhmmer_out use 0.002 seconds
+2020-12-10 Thursday 20:17:14 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:18:34 Functions.py[line:39] INFO extract_cds use 80.023 seconds
+2020-12-10 Thursday 20:18:34 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:18:36 Functions.py[line:39] INFO find_cds use 1.506 seconds
+2020-12-10 Thursday 20:18:36 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:18:36 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:18:36 Functions.py[line:1261] INFO Polypterus_endlicheri_itera1 processing completed
+2020-12-10 Thursday 20:18:36 Functions.py[line:1262] INFO [0;32m559[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:18:36 Functions.py[line:1263] INFO [1;32m544[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:18:36 Functions.py[line:1264] INFO [0;32m181[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:18:36 Functions.py[line:1265] INFO [1;32m70[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:18:36 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:18:36 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:18:36 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:18:36 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:18:36 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:18:36 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:18:36 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:18:36 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:18:36 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:18:36 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:18:36 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:18:42 Functions.py[line:39] INFO refact_list use 6.111 seconds
+2020-12-10 Thursday 20:18:42 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:18:42 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-10 Thursday 20:18:42 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:18:42 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:18:42 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:18:42 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:18:43 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:18:43 Iteration.py[line:133] INFO Iteration 1 construct HMM profile
+2020-12-10 Thursday 20:18:48 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:18:48 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:18:48 Functions.py[line:39] INFO platform_info use 0.003 seconds
+2020-12-10 Thursday 20:18:48 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:21:39 Functions.py[line:39] INFO run_nhmmer use 171.318 seconds
+2020-12-10 Thursday 20:21:39 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:21:39 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:21:39 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:21:39 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:21:39 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:21:39 Functions.py[line:449] INFO [0;32m153[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:21:39 Functions.py[line:39] INFO proc_nhmmer_out use 0.004 seconds
+2020-12-10 Thursday 20:21:39 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:22:24 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:22:24 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:22:24 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:22:24 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:22:24 Iteration.py[line:135] INFO ###Program Iteration.py finish###
+2020-12-10 Thursday 20:22:50 Functions.py[line:63] INFO ###Iteration program starts running###
+2020-12-10 Thursday 20:22:50 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:22:50 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:22:50 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:22:50 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:22:50 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:22:50 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:23:43 Functions.py[line:39] INFO run_nhmmer use 53.005 seconds
+2020-12-10 Thursday 20:23:43 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:23:44 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:23:44 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:23:44 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:23:44 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:23:44 Functions.py[line:449] INFO [0;32m21[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:23:44 Functions.py[line:39] INFO proc_nhmmer_out use 0.002 seconds
+2020-12-10 Thursday 20:23:44 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:25:04 Functions.py[line:39] INFO extract_cds use 80.735 seconds
+2020-12-10 Thursday 20:25:04 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:25:06 Functions.py[line:39] INFO find_cds use 1.513 seconds
+2020-12-10 Thursday 20:25:06 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:25:06 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:25:06 Functions.py[line:1261] INFO Polypterus_endlicheri_itera1 processing completed
+2020-12-10 Thursday 20:25:06 Functions.py[line:1262] INFO [0;32m559[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:25:06 Functions.py[line:1263] INFO [1;32m544[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:25:06 Functions.py[line:1264] INFO [0;32m181[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:25:06 Functions.py[line:1265] INFO [1;32m70[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:25:06 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:25:06 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:25:06 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:25:06 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:25:06 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:25:06 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:25:06 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:25:06 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:25:06 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:25:06 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:25:06 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:25:12 Functions.py[line:39] INFO refact_list use 6.125 seconds
+2020-12-10 Thursday 20:25:12 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:25:12 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-10 Thursday 20:25:12 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:25:12 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:25:12 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:25:12 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:25:13 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:25:13 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:25:13 Functions.py[line:1387] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:25:13 Functions.py[line:1390] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:25:13 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:25:13 Iteration.py[line:133] INFO Iteration 1 construct HMM profile
+2020-12-10 Thursday 20:25:18 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:25:18 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:25:18 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:25:18 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:28:10 Functions.py[line:39] INFO run_nhmmer use 171.598 seconds
+2020-12-10 Thursday 20:28:10 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:28:10 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:28:10 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:28:10 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:28:10 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:28:10 Functions.py[line:449] INFO [0;32m153[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:28:10 Functions.py[line:39] INFO proc_nhmmer_out use 0.004 seconds
+2020-12-10 Thursday 20:28:10 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:29:47 Functions.py[line:39] INFO extract_cds use 96.791 seconds
+2020-12-10 Thursday 20:29:47 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:29:48 Functions.py[line:39] INFO find_cds use 1.760 seconds
+2020-12-10 Thursday 20:29:49 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:29:49 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:29:49 Functions.py[line:1261] INFO Polypterus_endlicheri_itera2 processing completed
+2020-12-10 Thursday 20:29:49 Functions.py[line:1262] INFO [0;32m707[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:29:49 Functions.py[line:1263] INFO [1;32m577[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:29:49 Functions.py[line:1264] INFO [0;32m270[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:29:49 Functions.py[line:1265] INFO [1;32m107[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:29:49 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:29:49 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:29:49 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:29:49 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:29:49 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:29:49 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:29:49 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:29:49 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:29:49 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:29:49 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:29:49 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:29:54 Functions.py[line:39] INFO refact_list use 5.740 seconds
+2020-12-10 Thursday 20:29:54 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:29:54 Functions.py[line:1335] INFO [0;32m324[0m functional ORs were discover.
+2020-12-10 Thursday 20:29:54 Functions.py[line:1336] INFO [0;32m107[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:29:54 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:29:54 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:29:54 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:29:55 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:29:55 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:29:56 Functions.py[line:1387] INFO Eventually [1;32m324[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:29:56 Functions.py[line:1390] INFO Eventually [1;32m107[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:29:56 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:29:56 Iteration.py[line:135] INFO ###Program Iteration.py finish###
+2020-12-10 Thursday 20:31:38 Functions.py[line:63] INFO ###Iteration program starts running###
+2020-12-10 Thursday 20:31:38 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:31:38 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:31:38 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:31:38 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:31:38 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:31:38 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:32:24 Functions.py[line:39] INFO run_nhmmer use 45.970 seconds
+2020-12-10 Thursday 20:32:24 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:32:24 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:32:24 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:32:24 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:32:24 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:32:24 Functions.py[line:449] INFO [0;32m21[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:32:24 Functions.py[line:39] INFO proc_nhmmer_out use 0.003 seconds
+2020-12-10 Thursday 20:32:24 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:33:44 Functions.py[line:39] INFO extract_cds use 79.990 seconds
+2020-12-10 Thursday 20:33:44 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:33:46 Functions.py[line:39] INFO find_cds use 1.509 seconds
+2020-12-10 Thursday 20:33:46 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:33:46 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:33:46 Functions.py[line:1261] INFO Polypterus_endlicheri_itera1 processing completed
+2020-12-10 Thursday 20:33:46 Functions.py[line:1262] INFO [0;32m559[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:33:46 Functions.py[line:1263] INFO [1;32m544[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:33:46 Functions.py[line:1264] INFO [0;32m181[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:33:46 Functions.py[line:1265] INFO [1;32m70[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:33:46 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:33:46 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:33:46 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:33:46 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:33:46 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:33:46 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:33:46 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:33:46 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:33:46 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:33:46 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:33:46 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:33:52 Functions.py[line:39] INFO refact_list use 6.089 seconds
+2020-12-10 Thursday 20:33:52 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:33:52 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-10 Thursday 20:33:52 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:33:52 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:33:52 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:33:52 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:33:53 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:33:53 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:33:53 Functions.py[line:1387] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:33:53 Functions.py[line:1390] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:33:53 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:33:53 Iteration.py[line:133] INFO Iteration 1 construct HMM profile
+2020-12-10 Thursday 20:33:59 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:33:59 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:33:59 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:33:59 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:36:51 Functions.py[line:39] INFO run_nhmmer use 172.060 seconds
+2020-12-10 Thursday 20:36:51 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:36:51 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:36:51 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:36:51 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:36:51 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:36:51 Functions.py[line:449] INFO [0;32m153[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:36:51 Functions.py[line:39] INFO proc_nhmmer_out use 0.004 seconds
+2020-12-10 Thursday 20:36:51 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:38:29 Functions.py[line:39] INFO extract_cds use 97.341 seconds
+2020-12-10 Thursday 20:38:29 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:38:30 Functions.py[line:39] INFO find_cds use 1.813 seconds
+2020-12-10 Thursday 20:38:31 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:38:31 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:38:31 Functions.py[line:1261] INFO Polypterus_endlicheri_itera2 processing completed
+2020-12-10 Thursday 20:38:31 Functions.py[line:1262] INFO [0;32m707[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:38:31 Functions.py[line:1263] INFO [1;32m577[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:38:31 Functions.py[line:1264] INFO [0;32m270[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:38:31 Functions.py[line:1265] INFO [1;32m107[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:38:31 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:38:31 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:38:31 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:38:31 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:38:31 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:38:31 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:38:31 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:38:31 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:38:31 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:38:31 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:38:31 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:38:37 Functions.py[line:39] INFO refact_list use 6.170 seconds
+2020-12-10 Thursday 20:38:37 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:38:37 Functions.py[line:1335] INFO [0;32m324[0m functional ORs were discover.
+2020-12-10 Thursday 20:38:37 Functions.py[line:1336] INFO [0;32m107[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:38:37 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:38:37 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:38:37 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:38:38 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:38:38 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:38:38 Functions.py[line:1387] INFO Eventually [1;32m324[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:38:38 Functions.py[line:1390] INFO Eventually [1;32m107[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:38:38 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:38:38 Iteration.py[line:133] INFO Iteration 2 construct HMM profile
+2020-12-10 Thursday 20:38:44 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:38:44 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:38:44 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:38:44 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:41:18 Functions.py[line:39] INFO run_nhmmer use 154.262 seconds
+2020-12-10 Thursday 20:41:18 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:41:18 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:41:18 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:41:18 Functions.py[line:39] INFO platform_info use 0.003 seconds
+2020-12-10 Thursday 20:41:18 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:41:18 Functions.py[line:449] INFO [0;32m153[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:41:18 Functions.py[line:39] INFO proc_nhmmer_out use 0.004 seconds
+2020-12-10 Thursday 20:41:18 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:42:54 Functions.py[line:39] INFO extract_cds use 96.424 seconds
+2020-12-10 Thursday 20:42:54 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:42:56 Functions.py[line:39] INFO find_cds use 1.749 seconds
+2020-12-10 Thursday 20:42:56 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:42:56 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:42:56 Functions.py[line:1261] INFO Polypterus_endlicheri_itera3 processing completed
+2020-12-10 Thursday 20:42:56 Functions.py[line:1262] INFO [0;32m705[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:42:56 Functions.py[line:1263] INFO [1;32m576[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:42:56 Functions.py[line:1264] INFO [0;32m264[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:42:56 Functions.py[line:1265] INFO [1;32m112[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:42:56 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:42:56 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:42:56 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:42:56 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:42:56 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:42:56 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:42:56 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:42:56 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:42:56 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:42:56 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:42:56 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:43:03 Functions.py[line:39] INFO refact_list use 6.342 seconds
+2020-12-10 Thursday 20:43:03 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:43:03 Functions.py[line:1335] INFO [0;32m324[0m functional ORs were discover.
+2020-12-10 Thursday 20:43:03 Functions.py[line:1336] INFO [0;32m112[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:43:03 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:43:03 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:43:03 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:43:03 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:43:03 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:43:04 Functions.py[line:1387] INFO Eventually [1;32m324[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:43:04 Functions.py[line:1390] INFO Eventually [1;32m112[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:43:04 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:43:04 Iteration.py[line:133] INFO Iteration 3 construct HMM profile
+2020-12-10 Thursday 20:43:10 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:43:10 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:43:10 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:43:10 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:45:53 Functions.py[line:39] INFO run_nhmmer use 163.838 seconds
+2020-12-10 Thursday 20:45:53 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:45:53 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:45:53 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:45:53 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:45:53 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:45:53 Functions.py[line:449] INFO [0;32m153[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:45:53 Functions.py[line:39] INFO proc_nhmmer_out use 0.004 seconds
+2020-12-10 Thursday 20:45:53 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:47:31 Functions.py[line:39] INFO extract_cds use 97.851 seconds
+2020-12-10 Thursday 20:47:31 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:47:33 Functions.py[line:39] INFO find_cds use 1.751 seconds
+2020-12-10 Thursday 20:47:33 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:47:33 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:47:33 Functions.py[line:1261] INFO Polypterus_endlicheri_itera4 processing completed
+2020-12-10 Thursday 20:47:33 Functions.py[line:1262] INFO [0;32m708[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:47:33 Functions.py[line:1263] INFO [1;32m575[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:47:33 Functions.py[line:1264] INFO [0;32m266[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:47:33 Functions.py[line:1265] INFO [1;32m113[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:47:33 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:47:33 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:47:33 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:47:33 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:47:33 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:47:33 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:47:33 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:47:33 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:47:33 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:47:33 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:47:33 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:47:39 Functions.py[line:39] INFO refact_list use 5.397 seconds
+2020-12-10 Thursday 20:47:39 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:47:39 Functions.py[line:1335] INFO [0;32m324[0m functional ORs were discover.
+2020-12-10 Thursday 20:47:39 Functions.py[line:1336] INFO [0;32m113[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:47:39 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:47:39 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:47:39 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:47:39 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:47:39 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:47:40 Functions.py[line:1387] INFO Eventually [1;32m324[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:47:40 Functions.py[line:1390] INFO Eventually [1;32m113[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:47:40 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:47:40 Iteration.py[line:133] INFO Iteration 4 construct HMM profile
+2020-12-10 Thursday 20:47:45 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:47:45 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:47:45 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:47:45 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:50:21 Functions.py[line:39] INFO run_nhmmer use 155.078 seconds
+2020-12-10 Thursday 20:50:21 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:50:21 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:50:21 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:50:21 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:50:21 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:50:21 Functions.py[line:449] INFO [0;32m152[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:50:21 Functions.py[line:39] INFO proc_nhmmer_out use 0.004 seconds
+2020-12-10 Thursday 20:50:21 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:51:57 Functions.py[line:39] INFO extract_cds use 96.705 seconds
+2020-12-10 Thursday 20:51:57 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:51:59 Functions.py[line:39] INFO find_cds use 1.749 seconds
+2020-12-10 Thursday 20:51:59 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:51:59 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:51:59 Functions.py[line:1261] INFO Polypterus_endlicheri_itera5 processing completed
+2020-12-10 Thursday 20:51:59 Functions.py[line:1262] INFO [0;32m705[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:51:59 Functions.py[line:1263] INFO [1;32m576[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:51:59 Functions.py[line:1264] INFO [0;32m263[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:51:59 Functions.py[line:1265] INFO [1;32m113[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:51:59 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:51:59 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:51:59 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:51:59 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:51:59 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:51:59 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:51:59 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:51:59 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:51:59 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:51:59 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:51:59 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:52:06 Functions.py[line:39] INFO refact_list use 6.306 seconds
+2020-12-10 Thursday 20:52:06 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:52:06 Functions.py[line:1335] INFO [0;32m324[0m functional ORs were discover.
+2020-12-10 Thursday 20:52:06 Functions.py[line:1336] INFO [0;32m113[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:52:06 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:52:06 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:52:06 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:52:06 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:52:06 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:52:07 Functions.py[line:1387] INFO Eventually [1;32m324[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:52:07 Functions.py[line:1390] INFO Eventually [1;32m113[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:52:07 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:52:07 Iteration.py[line:133] INFO Iteration 5 construct HMM profile
+2020-12-10 Thursday 20:52:13 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-10 Thursday 20:52:13 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:52:13 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:52:13 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-10 Thursday 20:54:41 Functions.py[line:39] INFO run_nhmmer use 148.674 seconds
+2020-12-10 Thursday 20:54:41 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-10 Thursday 20:54:41 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-10 Thursday 20:54:41 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:54:41 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:54:41 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-10 Thursday 20:54:41 Functions.py[line:449] INFO [0;32m153[0m truncated gene(s) was discovered
+2020-12-10 Thursday 20:54:41 Functions.py[line:39] INFO proc_nhmmer_out use 0.003 seconds
+2020-12-10 Thursday 20:54:41 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-10 Thursday 20:56:19 Functions.py[line:39] INFO extract_cds use 97.541 seconds
+2020-12-10 Thursday 20:56:19 Functions.py[line:35] INFO function find_cds() is running
+2020-12-10 Thursday 20:56:21 Functions.py[line:39] INFO find_cds use 1.824 seconds
+2020-12-10 Thursday 20:56:21 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-10 Thursday 20:56:21 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-10 Thursday 20:56:21 Functions.py[line:1261] INFO Polypterus_endlicheri_itera6 processing completed
+2020-12-10 Thursday 20:56:21 Functions.py[line:1262] INFO [0;32m708[0m OR fragments found by nhmmer.
+2020-12-10 Thursday 20:56:21 Functions.py[line:1263] INFO [1;32m575[0m potential functional ORs were discover.
+2020-12-10 Thursday 20:56:21 Functions.py[line:1264] INFO [0;32m266[0m pseudogenes fragment were merged
+2020-12-10 Thursday 20:56:21 Functions.py[line:1265] INFO [1;32m113[0m potential pseudogene ORs were discover.
+2020-12-10 Thursday 20:56:21 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-10 Thursday 20:56:21 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-10 Thursday 20:56:21 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-10 Thursday 20:56:21 Functions.py[line:1269] INFO ###The program finish###
+2020-12-10 Thursday 20:56:21 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-10 Thursday 20:56:21 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-10 Thursday 20:56:21 Functions.py[line:35] INFO function platform_info() is running
+2020-12-10 Thursday 20:56:21 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-10 Thursday 20:56:21 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-10 Thursday 20:56:21 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-10 Thursday 20:56:21 Functions.py[line:35] INFO function refact_list() is running
+2020-12-10 Thursday 20:56:27 Functions.py[line:39] INFO refact_list use 6.338 seconds
+2020-12-10 Thursday 20:56:27 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-10 Thursday 20:56:27 Functions.py[line:1335] INFO [0;32m324[0m functional ORs were discover.
+2020-12-10 Thursday 20:56:27 Functions.py[line:1336] INFO [0;32m113[0m pseudogene ORs were discover.
+2020-12-10 Thursday 20:56:27 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-10 Thursday 20:56:27 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-10 Thursday 20:56:27 Functions.py[line:1353] INFO Remove redundant functional protein sequences
+2020-12-10 Thursday 20:56:28 Functions.py[line:1365] INFO Remove redundant functional DNA sequences
+2020-12-10 Thursday 20:56:28 Functions.py[line:1374] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-10 Thursday 20:56:29 Functions.py[line:1387] INFO Eventually [1;32m324[0m functional olfactory receptors were discovered
+2020-12-10 Thursday 20:56:29 Functions.py[line:1390] INFO Eventually [1;32m113[0m pseudogenes gene were discovered
+2020-12-10 Thursday 20:56:29 IdentifyFunc.py[line:112] INFO ###Program IdentityFunc.py finish###
+2020-12-10 Thursday 20:56:29 Iteration.py[line:135] INFO ###Program Iteration.py finish###
+2020-12-11 Friday 22:10:05 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:10:05 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:10:05 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:10:05 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:10:05 Functions.py[line:39] INFO refact_hitfile use 0.001 seconds
+2020-12-11 Friday 22:10:05 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:10:10 Functions.py[line:39] INFO refact_list use 4.533 seconds
+2020-12-11 Friday 22:10:10 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:11:54 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:11:54 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:11:54 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:11:54 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:11:54 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:11:54 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:12:00 Functions.py[line:39] INFO refact_list use 5.544 seconds
+2020-12-11 Friday 22:12:00 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:12:00 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:12:00 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:12:00 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:12:00 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:12:00 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:12:00 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:12:00 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:13:01 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:13:01 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:13:01 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:13:01 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:13:01 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:13:01 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:13:06 Functions.py[line:39] INFO refact_list use 5.657 seconds
+2020-12-11 Friday 22:13:06 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:13:06 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:13:06 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:13:06 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:13:06 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:13:06 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:13:07 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:13:07 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:15:34 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:15:34 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:15:34 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:15:34 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:15:34 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:15:34 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:15:40 Functions.py[line:39] INFO refact_list use 6.097 seconds
+2020-12-11 Friday 22:15:41 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:15:41 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:15:41 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:15:41 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:15:41 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:15:41 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:15:41 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:15:41 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:15:50 Functions.py[line:1401] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:15:50 Functions.py[line:1404] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:15:50 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:19:47 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:19:47 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:19:47 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:19:47 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:19:47 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:19:47 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:19:53 Functions.py[line:39] INFO refact_list use 6.211 seconds
+2020-12-11 Friday 22:19:53 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:19:53 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:19:53 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:19:53 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:19:53 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:19:53 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:19:54 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:19:54 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:19:54 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:20:02 Functions.py[line:39] INFO run_nhmmer use 7.491 seconds
+2020-12-11 Friday 22:20:02 Functions.py[line:1401] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:20:02 Functions.py[line:1404] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:20:02 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:20:34 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:20:34 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:20:34 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:20:34 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:20:34 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:20:34 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:20:41 Functions.py[line:39] INFO refact_list use 6.273 seconds
+2020-12-11 Friday 22:20:41 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:20:41 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:20:41 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:20:41 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:20:41 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:20:41 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:20:41 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:20:41 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:20:42 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:20:50 Functions.py[line:39] INFO run_nhmmer use 7.811 seconds
+2020-12-11 Friday 22:20:50 Functions.py[line:1401] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:20:50 Functions.py[line:1404] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:20:50 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:30:27 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:30:27 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:30:27 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:30:27 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:30:27 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:30:27 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:30:33 Functions.py[line:39] INFO refact_list use 5.124 seconds
+2020-12-11 Friday 22:30:33 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:30:33 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:30:33 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:30:33 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:30:33 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:30:33 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:30:33 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:30:33 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:30:34 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:30:42 Functions.py[line:39] INFO run_nhmmer use 8.475 seconds
+2020-12-11 Friday 22:30:42 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:30:47 Functions.py[line:39] INFO run_nhmmer use 4.144 seconds
+2020-12-11 Friday 22:30:47 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:30:52 Functions.py[line:39] INFO run_nhmmer use 5.383 seconds
+2020-12-11 Friday 22:30:52 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:30:58 Functions.py[line:39] INFO run_nhmmer use 5.626 seconds
+2020-12-11 Friday 22:30:58 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:03 Functions.py[line:39] INFO run_nhmmer use 5.193 seconds
+2020-12-11 Friday 22:31:03 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:08 Functions.py[line:39] INFO run_nhmmer use 5.547 seconds
+2020-12-11 Friday 22:31:08 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:13 Functions.py[line:39] INFO run_nhmmer use 4.502 seconds
+2020-12-11 Friday 22:31:13 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:17 Functions.py[line:39] INFO run_nhmmer use 3.938 seconds
+2020-12-11 Friday 22:31:17 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:19 Functions.py[line:39] INFO run_nhmmer use 1.890 seconds
+2020-12-11 Friday 22:31:19 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:23 Functions.py[line:39] INFO run_nhmmer use 4.147 seconds
+2020-12-11 Friday 22:31:23 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:26 Functions.py[line:39] INFO run_nhmmer use 3.412 seconds
+2020-12-11 Friday 22:31:26 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:31:31 Functions.py[line:39] INFO run_nhmmer use 4.489 seconds
+2020-12-11 Friday 22:33:46 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:33:46 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:33:46 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:33:46 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:33:46 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:33:46 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:33:52 Functions.py[line:39] INFO refact_list use 5.677 seconds
+2020-12-11 Friday 22:33:52 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:33:52 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:33:52 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:33:52 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:33:52 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:33:52 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:33:53 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:33:53 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:33:54 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:02 Functions.py[line:39] INFO run_nhmmer use 8.137 seconds
+2020-12-11 Friday 22:34:02 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:06 Functions.py[line:39] INFO run_nhmmer use 4.333 seconds
+2020-12-11 Friday 22:34:06 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:12 Functions.py[line:39] INFO run_nhmmer use 5.603 seconds
+2020-12-11 Friday 22:34:12 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:17 Functions.py[line:39] INFO run_nhmmer use 5.640 seconds
+2020-12-11 Friday 22:34:17 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:22 Functions.py[line:39] INFO run_nhmmer use 5.164 seconds
+2020-12-11 Friday 22:34:22 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:28 Functions.py[line:39] INFO run_nhmmer use 5.601 seconds
+2020-12-11 Friday 22:34:28 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:32 Functions.py[line:39] INFO run_nhmmer use 4.466 seconds
+2020-12-11 Friday 22:34:32 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:36 Functions.py[line:39] INFO run_nhmmer use 3.949 seconds
+2020-12-11 Friday 22:34:36 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:38 Functions.py[line:39] INFO run_nhmmer use 1.877 seconds
+2020-12-11 Friday 22:34:38 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:42 Functions.py[line:39] INFO run_nhmmer use 4.138 seconds
+2020-12-11 Friday 22:34:42 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:46 Functions.py[line:39] INFO run_nhmmer use 3.413 seconds
+2020-12-11 Friday 22:34:46 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:34:50 Functions.py[line:39] INFO run_nhmmer use 4.475 seconds
+2020-12-11 Friday 22:34:50 Functions.py[line:1410] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:34:50 Functions.py[line:1413] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:34:50 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:35:26 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:35:26 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:35:26 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:35:26 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:35:26 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:35:26 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:35:32 Functions.py[line:39] INFO refact_list use 5.988 seconds
+2020-12-11 Friday 22:35:32 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:35:32 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:35:32 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:35:32 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:35:32 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:35:32 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:35:33 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:35:33 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:35:33 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:35:41 Functions.py[line:39] INFO run_nhmmer use 7.859 seconds
+2020-12-11 Friday 22:35:41 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:35:45 Functions.py[line:39] INFO run_nhmmer use 4.113 seconds
+2020-12-11 Friday 22:35:45 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:35:51 Functions.py[line:39] INFO run_nhmmer use 5.348 seconds
+2020-12-11 Friday 22:35:51 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:35:56 Functions.py[line:39] INFO run_nhmmer use 5.582 seconds
+2020-12-11 Friday 22:35:56 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:01 Functions.py[line:39] INFO run_nhmmer use 5.150 seconds
+2020-12-11 Friday 22:36:01 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:07 Functions.py[line:39] INFO run_nhmmer use 5.546 seconds
+2020-12-11 Friday 22:36:07 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:11 Functions.py[line:39] INFO run_nhmmer use 4.469 seconds
+2020-12-11 Friday 22:36:11 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:15 Functions.py[line:39] INFO run_nhmmer use 3.958 seconds
+2020-12-11 Friday 22:36:15 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:17 Functions.py[line:39] INFO run_nhmmer use 1.882 seconds
+2020-12-11 Friday 22:36:17 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:21 Functions.py[line:39] INFO run_nhmmer use 4.172 seconds
+2020-12-11 Friday 22:36:21 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:25 Functions.py[line:39] INFO run_nhmmer use 3.420 seconds
+2020-12-11 Friday 22:36:25 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:36:29 Functions.py[line:39] INFO run_nhmmer use 4.480 seconds
+2020-12-11 Friday 22:36:29 Functions.py[line:1410] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:36:29 Functions.py[line:1413] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:36:29 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:38:35 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:38:35 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:38:35 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:38:35 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:38:35 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:38:35 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:38:41 Functions.py[line:39] INFO refact_list use 6.079 seconds
+2020-12-11 Friday 22:38:42 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:38:42 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:38:42 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:38:42 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:38:42 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:38:42 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:38:42 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:38:42 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:38:43 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:45 Functions.py[line:39] INFO run_nhmmer use 2.134 seconds
+2020-12-11 Friday 22:38:45 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:49 Functions.py[line:39] INFO run_nhmmer use 4.115 seconds
+2020-12-11 Friday 22:38:49 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:55 Functions.py[line:39] INFO run_nhmmer use 5.559 seconds
+2020-12-11 Friday 22:38:55 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:55 Functions.py[line:39] INFO run_nhmmer use 0.410 seconds
+2020-12-11 Friday 22:38:55 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:55 Functions.py[line:39] INFO run_nhmmer use 0.203 seconds
+2020-12-11 Friday 22:38:55 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:55 Functions.py[line:39] INFO run_nhmmer use 0.273 seconds
+2020-12-11 Friday 22:38:55 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:56 Functions.py[line:39] INFO run_nhmmer use 0.190 seconds
+2020-12-11 Friday 22:38:56 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:56 Functions.py[line:39] INFO run_nhmmer use 0.159 seconds
+2020-12-11 Friday 22:38:56 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:56 Functions.py[line:39] INFO run_nhmmer use 0.176 seconds
+2020-12-11 Friday 22:38:56 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:57 Functions.py[line:39] INFO run_nhmmer use 0.503 seconds
+2020-12-11 Friday 22:38:57 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:57 Functions.py[line:39] INFO run_nhmmer use 0.020 seconds
+2020-12-11 Friday 22:38:57 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:38:57 Functions.py[line:39] INFO run_nhmmer use 0.028 seconds
+2020-12-11 Friday 22:38:57 Functions.py[line:1410] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:38:57 Functions.py[line:1413] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:38:57 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:39:41 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:39:41 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:39:41 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:39:41 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:39:41 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:39:41 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:39:47 Functions.py[line:39] INFO refact_list use 6.034 seconds
+2020-12-11 Friday 22:39:47 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:39:47 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:39:47 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:39:47 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:39:47 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:39:47 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:39:48 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:39:48 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:40:11 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:40:11 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:40:11 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:40:11 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:40:11 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:40:11 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:40:17 Functions.py[line:39] INFO refact_list use 6.105 seconds
+2020-12-11 Friday 22:40:17 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:40:17 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:40:17 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:40:17 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:40:17 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:40:17 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:40:18 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:40:18 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:40:18 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:26 Functions.py[line:39] INFO run_nhmmer use 7.720 seconds
+2020-12-11 Friday 22:40:26 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:30 Functions.py[line:39] INFO run_nhmmer use 3.956 seconds
+2020-12-11 Friday 22:40:30 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:36 Functions.py[line:39] INFO run_nhmmer use 5.336 seconds
+2020-12-11 Friday 22:40:36 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:41 Functions.py[line:39] INFO run_nhmmer use 5.587 seconds
+2020-12-11 Friday 22:40:41 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:46 Functions.py[line:39] INFO run_nhmmer use 5.175 seconds
+2020-12-11 Friday 22:40:46 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:52 Functions.py[line:39] INFO run_nhmmer use 5.562 seconds
+2020-12-11 Friday 22:40:52 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:40:56 Functions.py[line:39] INFO run_nhmmer use 4.483 seconds
+2020-12-11 Friday 22:40:56 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:41:00 Functions.py[line:39] INFO run_nhmmer use 3.933 seconds
+2020-12-11 Friday 22:41:00 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:41:02 Functions.py[line:39] INFO run_nhmmer use 1.897 seconds
+2020-12-11 Friday 22:41:02 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:41:06 Functions.py[line:39] INFO run_nhmmer use 4.150 seconds
+2020-12-11 Friday 22:41:06 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:41:10 Functions.py[line:39] INFO run_nhmmer use 3.414 seconds
+2020-12-11 Friday 22:41:10 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:41:14 Functions.py[line:39] INFO run_nhmmer use 4.482 seconds
+2020-12-11 Friday 22:41:14 Functions.py[line:1409] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:41:14 Functions.py[line:1412] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:41:14 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:51:35 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:51:35 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:51:35 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:51:35 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:51:35 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:51:35 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 22:51:41 Functions.py[line:39] INFO refact_list use 6.217 seconds
+2020-12-11 Friday 22:51:41 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 22:51:41 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 22:51:41 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 22:51:41 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 22:51:41 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 22:51:41 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 22:51:42 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 22:51:42 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 22:51:42 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:51:50 Functions.py[line:39] INFO run_nhmmer use 7.767 seconds
+2020-12-11 Friday 22:51:50 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:51:54 Functions.py[line:39] INFO run_nhmmer use 4.094 seconds
+2020-12-11 Friday 22:51:54 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:00 Functions.py[line:39] INFO run_nhmmer use 5.453 seconds
+2020-12-11 Friday 22:52:00 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:05 Functions.py[line:39] INFO run_nhmmer use 5.737 seconds
+2020-12-11 Friday 22:52:05 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:11 Functions.py[line:39] INFO run_nhmmer use 5.335 seconds
+2020-12-11 Friday 22:52:11 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:17 Functions.py[line:39] INFO run_nhmmer use 5.696 seconds
+2020-12-11 Friday 22:52:17 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:21 Functions.py[line:39] INFO run_nhmmer use 4.600 seconds
+2020-12-11 Friday 22:52:21 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:25 Functions.py[line:39] INFO run_nhmmer use 4.051 seconds
+2020-12-11 Friday 22:52:25 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:27 Functions.py[line:39] INFO run_nhmmer use 1.945 seconds
+2020-12-11 Friday 22:52:27 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:31 Functions.py[line:39] INFO run_nhmmer use 4.267 seconds
+2020-12-11 Friday 22:52:31 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:35 Functions.py[line:39] INFO run_nhmmer use 3.452 seconds
+2020-12-11 Friday 22:52:35 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 22:52:39 Functions.py[line:39] INFO run_nhmmer use 4.583 seconds
+2020-12-11 Friday 22:52:39 Functions.py[line:1410] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 22:52:39 Functions.py[line:1413] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 22:52:39 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 22:59:55 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 22:59:55 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 22:59:55 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 22:59:55 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 22:59:55 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 22:59:55 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 23:00:01 Functions.py[line:39] INFO refact_list use 5.859 seconds
+2020-12-11 Friday 23:00:01 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 23:00:01 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 23:00:01 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 23:00:01 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 23:00:01 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 23:00:01 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 23:00:02 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 23:00:02 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 23:00:02 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:10 Functions.py[line:39] INFO run_nhmmer use 7.969 seconds
+2020-12-11 Friday 23:00:10 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:14 Functions.py[line:39] INFO run_nhmmer use 3.735 seconds
+2020-12-11 Friday 23:00:14 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:19 Functions.py[line:39] INFO run_nhmmer use 4.782 seconds
+2020-12-11 Friday 23:00:19 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:24 Functions.py[line:39] INFO run_nhmmer use 5.145 seconds
+2020-12-11 Friday 23:00:24 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:29 Functions.py[line:39] INFO run_nhmmer use 4.841 seconds
+2020-12-11 Friday 23:00:29 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:34 Functions.py[line:39] INFO run_nhmmer use 5.067 seconds
+2020-12-11 Friday 23:00:34 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:37 Functions.py[line:39] INFO run_nhmmer use 3.830 seconds
+2020-12-11 Friday 23:00:37 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:41 Functions.py[line:39] INFO run_nhmmer use 3.618 seconds
+2020-12-11 Friday 23:00:41 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:43 Functions.py[line:39] INFO run_nhmmer use 1.782 seconds
+2020-12-11 Friday 23:00:43 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:46 Functions.py[line:39] INFO run_nhmmer use 3.580 seconds
+2020-12-11 Friday 23:00:46 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:49 Functions.py[line:39] INFO run_nhmmer use 2.736 seconds
+2020-12-11 Friday 23:00:49 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:00:53 Functions.py[line:39] INFO run_nhmmer use 3.823 seconds
+2020-12-11 Friday 23:00:53 Functions.py[line:1410] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 23:00:53 Functions.py[line:1413] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 23:00:53 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 23:02:10 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 23:02:10 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 23:02:10 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 23:02:10 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 23:02:10 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 23:02:10 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 23:02:16 Functions.py[line:39] INFO refact_list use 6.078 seconds
+2020-12-11 Friday 23:02:16 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 23:02:16 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 23:02:16 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 23:02:16 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 23:02:16 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 23:02:16 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 23:02:16 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 23:02:16 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 23:02:17 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:25 Functions.py[line:39] INFO run_nhmmer use 7.927 seconds
+2020-12-11 Friday 23:02:25 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:29 Functions.py[line:39] INFO run_nhmmer use 3.885 seconds
+2020-12-11 Friday 23:02:29 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:34 Functions.py[line:39] INFO run_nhmmer use 5.069 seconds
+2020-12-11 Friday 23:02:34 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:39 Functions.py[line:39] INFO run_nhmmer use 5.473 seconds
+2020-12-11 Friday 23:02:39 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:44 Functions.py[line:39] INFO run_nhmmer use 4.876 seconds
+2020-12-11 Friday 23:02:44 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:50 Functions.py[line:39] INFO run_nhmmer use 5.598 seconds
+2020-12-11 Friday 23:02:50 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:54 Functions.py[line:39] INFO run_nhmmer use 3.929 seconds
+2020-12-11 Friday 23:02:54 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:02:58 Functions.py[line:39] INFO run_nhmmer use 4.028 seconds
+2020-12-11 Friday 23:02:58 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:03:00 Functions.py[line:39] INFO run_nhmmer use 1.878 seconds
+2020-12-11 Friday 23:03:00 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:03:03 Functions.py[line:39] INFO run_nhmmer use 3.758 seconds
+2020-12-11 Friday 23:03:03 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:03:06 Functions.py[line:39] INFO run_nhmmer use 2.999 seconds
+2020-12-11 Friday 23:03:06 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:03:10 Functions.py[line:39] INFO run_nhmmer use 3.969 seconds
+2020-12-11 Friday 23:03:10 Functions.py[line:1410] INFO Eventually [1;32m303[0m functional olfactory receptors were discovered
+2020-12-11 Friday 23:03:10 Functions.py[line:1413] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 23:03:10 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-11 Friday 23:13:31 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-11 Friday 23:13:31 Functions.py[line:35] INFO function platform_info() is running
+2020-12-11 Friday 23:13:31 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-11 Friday 23:13:31 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-11 Friday 23:13:31 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-11 Friday 23:13:31 Functions.py[line:35] INFO function refact_list() is running
+2020-12-11 Friday 23:13:38 Functions.py[line:39] INFO refact_list use 6.189 seconds
+2020-12-11 Friday 23:13:38 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-11 Friday 23:13:38 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-11 Friday 23:13:38 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-11 Friday 23:13:38 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-11 Friday 23:13:38 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-11 Friday 23:13:38 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-11 Friday 23:13:38 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-11 Friday 23:13:38 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-11 Friday 23:13:39 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:13:46 Functions.py[line:39] INFO run_nhmmer use 7.599 seconds
+2020-12-11 Friday 23:13:46 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:13:50 Functions.py[line:39] INFO run_nhmmer use 3.565 seconds
+2020-12-11 Friday 23:13:50 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:13:55 Functions.py[line:39] INFO run_nhmmer use 4.647 seconds
+2020-12-11 Friday 23:13:55 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:00 Functions.py[line:39] INFO run_nhmmer use 5.058 seconds
+2020-12-11 Friday 23:14:00 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:04 Functions.py[line:39] INFO run_nhmmer use 4.747 seconds
+2020-12-11 Friday 23:14:04 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:09 Functions.py[line:39] INFO run_nhmmer use 4.956 seconds
+2020-12-11 Friday 23:14:09 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:13 Functions.py[line:39] INFO run_nhmmer use 3.759 seconds
+2020-12-11 Friday 23:14:13 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:17 Functions.py[line:39] INFO run_nhmmer use 3.560 seconds
+2020-12-11 Friday 23:14:17 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:18 Functions.py[line:39] INFO run_nhmmer use 1.741 seconds
+2020-12-11 Friday 23:14:18 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:22 Functions.py[line:39] INFO run_nhmmer use 3.495 seconds
+2020-12-11 Friday 23:14:22 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:25 Functions.py[line:39] INFO run_nhmmer use 2.699 seconds
+2020-12-11 Friday 23:14:25 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-11 Friday 23:14:28 Functions.py[line:39] INFO run_nhmmer use 3.758 seconds
+2020-12-11 Friday 23:14:28 Functions.py[line:1412] INFO Exclude 6 ammonia receptors
+2020-12-11 Friday 23:14:28 Functions.py[line:1414] INFO Eventually [1;32m297[0m functional olfactory receptors were discovered
+2020-12-11 Friday 23:14:28 Functions.py[line:1417] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-11 Friday 23:14:28 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
+2020-12-12 Saturday 09:37:29 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-12 Saturday 09:37:29 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:37:29 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:37:29 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:37:29 Functions.py[line:39] INFO run_nhmmer use 0.016 seconds
+2020-12-12 Saturday 09:37:29 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-12 Saturday 09:37:53 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-12 Saturday 09:37:53 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:37:53 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:37:53 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:37:53 Functions.py[line:39] INFO run_nhmmer use 0.016 seconds
+2020-12-12 Saturday 09:37:53 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-12 Saturday 09:38:33 Functions.py[line:63] INFO ###nhmmer program starts running###
+2020-12-12 Saturday 09:38:33 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:38:33 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:38:33 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:39:03 Functions.py[line:39] INFO run_nhmmer use 30.136 seconds
+2020-12-12 Saturday 09:39:03 nhmmer.py[line:52] INFO ###Program nhmmer.py finish###
+2020-12-12 Saturday 09:39:50 Functions.py[line:63] INFO ###FindOR program starts running###
+2020-12-12 Saturday 09:39:50 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:39:50 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:39:50 Functions.py[line:35] INFO function proc_nhmmer_out() is running
+2020-12-12 Saturday 09:39:50 Functions.py[line:449] INFO [0;32m21[0m truncated gene(s) was discovered
+2020-12-12 Saturday 09:39:50 Functions.py[line:39] INFO proc_nhmmer_out use 0.003 seconds
+2020-12-12 Saturday 09:39:50 Functions.py[line:35] INFO function extract_cds() is running
+2020-12-12 Saturday 09:41:13 Functions.py[line:39] INFO extract_cds use 82.378 seconds
+2020-12-12 Saturday 09:41:13 Functions.py[line:35] INFO function find_cds() is running
+2020-12-12 Saturday 09:41:14 Functions.py[line:39] INFO find_cds use 1.503 seconds
+2020-12-12 Saturday 09:41:14 Functions.py[line:1233] INFO Merge pseudogene fragement
+2020-12-12 Saturday 09:41:14 Functions.py[line:1260] INFO ###The result as follows###
+2020-12-12 Saturday 09:41:14 Functions.py[line:1261] INFO testout processing completed
+2020-12-12 Saturday 09:41:14 Functions.py[line:1262] INFO [0;32m559[0m OR fragments found by nhmmer.
+2020-12-12 Saturday 09:41:14 Functions.py[line:1263] INFO [1;32m544[0m potential functional ORs were discover.
+2020-12-12 Saturday 09:41:14 Functions.py[line:1264] INFO [0;32m181[0m pseudogenes fragment were merged
+2020-12-12 Saturday 09:41:14 Functions.py[line:1265] INFO [1;32m70[0m potential pseudogene ORs were discover.
+2020-12-12 Saturday 09:41:14 Functions.py[line:1266] INFO [0;32m0[0m pseudogenes cause by too short sequence length.
+2020-12-12 Saturday 09:41:14 Functions.py[line:1267] INFO [0;32m0[0m pseudogenes cause by insert or delect base.
+2020-12-12 Saturday 09:41:14 Functions.py[line:1268] INFO [0;32m0[0m pseudogenes cause by contains termination codons.
+2020-12-12 Saturday 09:41:14 Functions.py[line:1269] INFO ###The program finish###
+2020-12-12 Saturday 09:41:14 FindOR.py[line:62] INFO ###Program FindOR.py finish###
+2020-12-12 Saturday 09:46:55 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-12 Saturday 09:46:55 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:46:55 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:46:55 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-12 Saturday 09:46:55 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-12 Saturday 09:46:55 Functions.py[line:35] INFO function refact_list() is running
+2020-12-12 Saturday 09:50:58 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-12 Saturday 09:50:58 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:50:58 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:50:58 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-12 Saturday 09:50:58 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-12 Saturday 09:50:58 Functions.py[line:35] INFO function refact_list() is running
+2020-12-12 Saturday 09:51:46 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-12 Saturday 09:51:46 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:51:46 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:51:46 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-12 Saturday 09:51:46 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-12 Saturday 09:51:46 Functions.py[line:35] INFO function refact_list() is running
+2020-12-12 Saturday 09:51:55 Functions.py[line:63] INFO ###IdentityFunc program starts running###
+2020-12-12 Saturday 09:51:55 Functions.py[line:35] INFO function platform_info() is running
+2020-12-12 Saturday 09:51:55 Functions.py[line:39] INFO platform_info use 0.004 seconds
+2020-12-12 Saturday 09:51:55 Functions.py[line:35] INFO function refact_hitfile() is running
+2020-12-12 Saturday 09:51:55 Functions.py[line:39] INFO refact_hitfile use 0.002 seconds
+2020-12-12 Saturday 09:51:55 Functions.py[line:35] INFO function refact_list() is running
+2020-12-12 Saturday 09:52:01 Functions.py[line:39] INFO refact_list use 6.037 seconds
+2020-12-12 Saturday 09:52:01 Functions.py[line:35] INFO function identity_writer() is running
+2020-12-12 Saturday 09:52:01 Functions.py[line:1335] INFO [0;32m303[0m functional ORs were discover.
+2020-12-12 Saturday 09:52:01 Functions.py[line:1336] INFO [0;32m70[0m pseudogene ORs were discover.
+2020-12-12 Saturday 09:52:01 Functions.py[line:1337] INFO [0;32m0[0m pseudogenes cause by TM has gaps(more than 5).
+2020-12-12 Saturday 09:52:01 Functions.py[line:39] INFO identity_writer use 0.001 seconds
+2020-12-12 Saturday 09:52:01 Functions.py[line:1356] INFO Remove redundant functional protein sequences
+2020-12-12 Saturday 09:52:02 Functions.py[line:1368] INFO Remove redundant functional DNA sequences
+2020-12-12 Saturday 09:52:02 Functions.py[line:1377] INFO Remove redundant pseudogene sequences, DNA only
+2020-12-12 Saturday 09:52:02 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:10 Functions.py[line:39] INFO run_nhmmer use 7.898 seconds
+2020-12-12 Saturday 09:52:10 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:14 Functions.py[line:39] INFO run_nhmmer use 3.675 seconds
+2020-12-12 Saturday 09:52:14 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:19 Functions.py[line:39] INFO run_nhmmer use 4.792 seconds
+2020-12-12 Saturday 09:52:19 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:24 Functions.py[line:39] INFO run_nhmmer use 5.062 seconds
+2020-12-12 Saturday 09:52:24 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:28 Functions.py[line:39] INFO run_nhmmer use 4.759 seconds
+2020-12-12 Saturday 09:52:28 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:33 Functions.py[line:39] INFO run_nhmmer use 4.965 seconds
+2020-12-12 Saturday 09:52:33 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:37 Functions.py[line:39] INFO run_nhmmer use 3.758 seconds
+2020-12-12 Saturday 09:52:37 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:41 Functions.py[line:39] INFO run_nhmmer use 3.570 seconds
+2020-12-12 Saturday 09:52:41 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:43 Functions.py[line:39] INFO run_nhmmer use 1.761 seconds
+2020-12-12 Saturday 09:52:43 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:46 Functions.py[line:39] INFO run_nhmmer use 3.498 seconds
+2020-12-12 Saturday 09:52:46 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:49 Functions.py[line:39] INFO run_nhmmer use 2.725 seconds
+2020-12-12 Saturday 09:52:49 Functions.py[line:35] INFO function run_nhmmer() is running
+2020-12-12 Saturday 09:52:53 Functions.py[line:39] INFO run_nhmmer use 3.755 seconds
+2020-12-12 Saturday 09:52:53 Functions.py[line:1412] INFO Exclude 6 ammonia receptors
+2020-12-12 Saturday 09:52:53 Functions.py[line:1414] INFO Eventually [1;32m297[0m functional olfactory receptors were discovered
+2020-12-12 Saturday 09:52:53 Functions.py[line:1417] INFO Eventually [1;32m70[0m pseudogenes gene were discovered
+2020-12-12 Saturday 09:52:53 IdentifyFunc.py[line:129] INFO ###Program IdentityFunc.py finish###
