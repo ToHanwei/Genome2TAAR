@@ -4,7 +4,7 @@
 TOOLNAME = "Genome2OR"
 
 # The version
-VERSION = "Genome2OR 1.0"
+VERSION = "Genome2TAAR 1.0"
 
 # Complementary base
 CompBase = {'A': 'T', 'T': 'A', 'C': 'G',
