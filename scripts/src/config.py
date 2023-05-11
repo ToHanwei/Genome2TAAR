@@ -1,7 +1,7 @@
 #!coding:utf-8
 
 # The name of this tool
-TOOLNAME = "Genome2OR"
+TOOLNAME = "Genome2TAAR"
 
 # The version
 VERSION = "Genome2TAAR 1.0"
