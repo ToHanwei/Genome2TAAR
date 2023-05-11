@@ -73,7 +73,8 @@ TM_GAPS_TOTAL = 5
 EXTEND_LENGTH = 1500
 
 # cover rate, exclude aminergic receptor
-COVER_RATE = 50
+# source 50, not clear
+COVER_RATE = 0
 
 # Codon mapping table
 CODON_TABLE = {
